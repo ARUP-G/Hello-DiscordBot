@@ -1,4 +1,4 @@
-# Hello-DiscordBot
+# Hello-DiscordBot ![Alt text](image.png)
 
 Hello-DiscordBot is a simple Discord bot written in Go that responds to user commands with a friendly greeting message.
 
